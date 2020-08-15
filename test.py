@@ -7,6 +7,6 @@ print("Version info.")
 print (sys.version)
 
 name = input("naam: ")
-print("Hello ",name)
+print("Hellookes ",name)
 
 #print(os.environ.keys)
